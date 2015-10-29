@@ -2,6 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
+#eagle cad backup
+
+*.b#?
+*.s#?
+*.epf
+
 # Folder config file
 Desktop.ini
 
