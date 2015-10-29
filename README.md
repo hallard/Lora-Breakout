@@ -5,7 +5,7 @@ This is a utility breakout board for connecting Lora device onto
 NRF24L01 sockets
 
 this breakout add the feature of one of : 
-- **adding** ATSHA SPI Flash EEProm
+- **adding** ATSHA204 for Crypto Authentication
 - **adding** a Led to see what's going on
 
 
@@ -32,9 +32,9 @@ Everything will be soon documented on this dedicated [post][6]
 ![schematic](https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-sch.png)  
 
 ### Boards  
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-brd.png" alt="board" width="38%" height="38%">&nbsp;
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-top.png" alt="top" width="30%" height="30%">&nbsp;
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-bot.png" alt="bottom" width="30%" height="30%">
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-brd.png" alt="board" width="35%" height="35%">&nbsp;
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-top.png" alt="top" width="25%" height="25%">&nbsp;
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-bot.png" alt="bottom" width="25%" height="25%">
 
 You can direct order PCB from this [link][10] to OSHPark
 
@@ -44,23 +44,23 @@ You can direct order PCB from this [link][10] to OSHPark
 ![schematic](https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-sch.png)  
 
 ### Boards  
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-brd.png" alt="board SMD" width="38%" height="38%">&nbsp;
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-top.png" alt="top SMD" width="30%" height="30%">&nbsp;
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-bot.png" alt="bottom SMD" width="30%" height="30%">
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-brd.png" alt="board SMD" width="35%" height="35%">&nbsp;
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-top.png" alt="top SMD" width="25%" height="25%">&nbsp;
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-bot.png" alt="bottom SMD" width="25%" height="25%">
 
 You can direct order PCB from this [link][11] to OSHPark
 
 Check out news and other on my [blog][5], Any comments or question are welcomed on the [community][8]!
 
-[1]: [https://github.com/hallard/RFM12B-BreakOut]
-[2]: [https://github.com/hallard/RFM69W-BreakOut]
+[1]: https://github.com/hallard/RFM12B-BreakOut
+[2]: https://github.com/hallard/RFM69W-BreakOut
 [3]: http://hallard.me/rfm12b-breakout/ 
 [4]: http://hallard.me/arduipi
 [5]: http://hallard.me
 [6]: http://hallard.me/lora-breakout/ 
 [7]: http://hallard.me/category/ulpnode/
 [8]: https://community.hallard.me/
-
+[9]: 
 [10]: https://oshpark.com/projects/XCiquSkv/order
 [11]: https://oshpark.com/projects/V7WQxHGe/order
 
