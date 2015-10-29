@@ -32,7 +32,7 @@ Everything will be soon documented on this dedicated [post][6]
 ![schematic](https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-sch.png)  
 
 ### Boards  
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-brd.png" alt="board" width="50%" height="50%">&nbsp;
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-brd.png" alt="board" width="38%" height="38%">&nbsp;
 <img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-top.png" alt="top" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-bot.png" alt="bottom" width="30%" height="30%">
 
@@ -44,7 +44,7 @@ You can direct order PCB from this [link][10] to OSHPark
 ![schematic](https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-sch.png)  
 
 ### Boards  
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-brd.png" alt="board SMD" width="50%" height="50%">&nbsp;
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-brd.png" alt="board SMD" width="38%" height="38%">&nbsp;
 <img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-top.png" alt="top SMD" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-bot.png" alt="bottom SMD" width="30%" height="30%">
 
