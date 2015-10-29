@@ -18,9 +18,7 @@ can be used anywhere where you use NRF24L01 or has NRF24L01 connector.
 
 The same breakout board exists also for RFM69W and RFM69HW on this [repo][2] and for RFM12B on this [one][1]
  
-Check out news and other on my [blog][5]
-
-Any comments or question are welcomed on the [community][8]
+Check out news and other on my [blog][5], Any comments or question are welcomed on the [community][8]!
 
 
 Detailed Description
@@ -28,29 +26,31 @@ Detailed Description
 
 Everything will be soon documented on this dedicated [post][6]
 
-## PTH conenctor version **  
+## PTH connector version
 
 ### Schematic  
 ![schematic](https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-sch.png)  
 
 ### Boards  
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-brd.png" alt="board" width="30%" height="30%">&nbsp;
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-brd.png" alt="board" width="50%" height="50%">&nbsp;
 <img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-top.png" alt="top" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-bot.png" alt="bottom" width="30%" height="30%">
 
 You can direct order PCB from this [link][10] to OSHPark
 
-## SMD connector version **  
+## SMD connector version
 
 ### Schematic  
 ![schematic](https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-sch.png)  
 
 ### Boards  
-<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-brd.png" alt="board SMD" width="30%" height="30%">&nbsp;
+<img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-brd.png" alt="board SMD" width="50%" height="50%">&nbsp;
 <img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-top.png" alt="top SMD" width="30%" height="30%">&nbsp;
 <img src="https://raw.github.com/hallard/Lora-Breakout/master/Lora-Breakout-SMD-bot.png" alt="bottom SMD" width="30%" height="30%">
 
 You can direct order PCB from this [link][11] to OSHPark
+
+Check out news and other on my [blog][5], Any comments or question are welcomed on the [community][8]!
 
 [1]: [https://github.com/hallard/RFM12B-BreakOut]
 [2]: [https://github.com/hallard/RFM69W-BreakOut]
@@ -61,6 +61,6 @@ You can direct order PCB from this [link][11] to OSHPark
 [7]: http://hallard.me/category/ulpnode/
 [8]: https://community.hallard.me/
 
-[10]: 
-[11]: 
+[10]: https://oshpark.com/projects/XCiquSkv/order
+[11]: https://oshpark.com/projects/V7WQxHGe/order
 
